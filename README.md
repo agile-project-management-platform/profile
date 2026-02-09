@@ -63,9 +63,35 @@ Essa prática apresenta diversas limitações:
 - ❌ Ausência de dados consolidados para análise por Squad Leaders e coordenadores
 - ❌ Processo altamente manual e sujeito a erros
 
-A imagem abaixo exemplifica o tipo de informação que normalmente é compartilhada nos grupos de daily:
+A seguir é apresentado um exemplo de como é realizada a lista de compromentimento das atividades atualmente:
 
-> *(Exemplo de lista manual enviada no chat do time)*
+## 📌 Lista de Comprometimento — Daily
+
+**Data:** 09/02/2026  
+**Desenvolvedor:** Fulano da Silva
+
+---
+
+### 📝 Atividades
+
+- **HCMXXX-99999** — Finalizar  
+- **HCMXXX-99998** — Enviar para *Ready To Deploy* _(7)_  
+- **HCMXXX-99997** — Avaliar e Planejar _(12)_  
+- **HCMXXX-99996** — Avaliar e Planejar  
+- **HCMXXX-99995** — Enviar para Review  
+- **HCMXXX-99994** — Finalizar _(2)_  
+- **HCMXXX-99993** — Finalizar  
+- **HCMXXX-99992** — Avaliar e Planejar _(4)_  
+- **HCMXXX-99991** — Avaliar e Planejar _(2)_  
+- **HCMXXX-99990** — Finalizar  
+- **HCMXXX-99989** — Enviar para Code Review  
+- **HCMXXX-99988** — Enviar para CR _(2)_  
+- **HCMXXX-99987** — Enviar para CR _(3)_  
+- **HCMXXX-99986** — Finalizar _(5)_  
+- **HCMXXX-99985** — Avaliar e Planejar _(2)_  
+- **HCMXXX-99984** — Finalizar  
+- **HCMXXX-99983** — Enviar para Code Review  
+- **HCMXXX-99982** — Enviar para Code Review  
 
 ---
 
