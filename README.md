@@ -125,14 +125,14 @@ https://miro.com/app/board/uXjVGD9BAvg=/
 ### 🎨 Frontend
 Aplicação responsável pela visualização, interação e acompanhamento das demandas.
 
-🔗 https://github.com/agile-project-management-platform/agile-project-management-platform-frontend
+🔗 https://github.com/agile-project-management-platform/agile-management-platform-frontend
 
 ---
 
 ### ⚙️ Backend
 API responsável pela gestão das demandas, status, histórico e regras de negócio.
 
-🔗 https://github.com/agile-project-management-platform/agile-project-management-platform-backend
+🔗 https://github.com/agile-project-management-platform/agile-management-platform-backend
 
 ---
 
